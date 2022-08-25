@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SofiaVossen
-- 👀 I’m interested in Front End Development
+- 👋 Hi, I’m Sofia
+- 👀 I’m interested in Web Sevelopment
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on all topics related to Web Dev
 
