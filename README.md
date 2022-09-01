@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sofia
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on all topics related to Web Dev
+- 👀 I’m interested in Web Development and all other tech-related topics
+- 🌱 I’m currently learning HTML CSS JS
 
 <!---
 SofiaVossen/SofiaVossen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
